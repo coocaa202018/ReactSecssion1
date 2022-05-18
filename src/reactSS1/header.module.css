@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    display:flex;
+    color: #ffffff;
+    background-color: #000000;
+    height: 50px;
+    font-size: 20px;
+    align-items: center;
+    justify-content:space-around;
+}
+.header p{
+    cursor: pointer;
+}
+.navbar a{
+    margin-left: 15px;
+    cursor: pointer;
+}

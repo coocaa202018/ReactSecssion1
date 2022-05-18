@@ -1,0 +1,31 @@
+.row{
+    padding: 50px 0;
+    display: flex;
+    flex-wrap:wrap;
+}
+.col{
+    width: 50%;
+}
+
+.items{
+    height: 160px;
+    margin: 0 20px;
+    margin-bottom: 40px;
+    padding: 50px 50px;
+    background-color: rgb(240, 238, 238);
+    position: relative;
+}
+.icons{
+    background-color: dodgerblue;
+    height: 64px;
+    width: 64px;
+    position: absolute;
+    top: -10%;
+    right: 40%;
+    border-radius: 5px;
+}
+.icons i{
+    margin-top: 10px;
+    font-size: 40px;
+    color: #ffffff;
+}

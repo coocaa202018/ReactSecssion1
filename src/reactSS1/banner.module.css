@@ -1,0 +1,26 @@
+.banners{
+    padding: 100px;
+    margin: 0 20px;
+    margin-bottom: 50px;
+    background-color: rgb(240, 238, 238);
+}
+.banners h1{
+    font-size: 40px;
+}
+.banners p{
+    font-size: 25px;
+}
+.banners button{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    background-color:dodgerblue;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid dodgerblue;
+    cursor: pointer;
+    
+}
+.banners button:hover{
+    background-color: cornflowerblue;
+}
